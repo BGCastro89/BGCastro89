@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
-### Hello World 👋
+### Hello 👋
 
-I', Brian Castro, a backend and fullstack software engineer currently living on the Olympic Peninsula in Washington, soon to be in San Francisco.
+I'm, Brian Castro, a backend and fullstack software engineer currently living on the Olympic Peninsula in Washington, soon to be in San Francisco.
 
 - 🏢 Currently working at [BadgeList](www.badgelist.com)
 - 🔭 Currently Buidling Stargazr, a webapp for finding the best places to go stargazing
